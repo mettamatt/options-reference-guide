@@ -3,8 +3,10 @@
 # Option Moneyness
 - CALLS
 	- In The Money (ITM): Stock Price > Strike Price
+	- Out of The Money (ITM): Stock Price < Strike Price
 - PUTS
 	- In The Money (ITM): Strike Price > Stock Price
+	- Out of The Money (OTM): Strike Price < Stock Price
 
 |   | LONG | SHORT |
 | --- | ----------------------- | ------------------------ |
